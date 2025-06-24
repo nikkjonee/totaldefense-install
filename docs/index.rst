@@ -5,7 +5,7 @@ How to Install Total Defense on Any Device?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://trendmicroantivirus.readthedocs.io/en/latest/_images/install.png
+.. image:: install.png
    :alt: My Project Logo
    :width: 400px
    :align: center
